@@ -1,0 +1,24 @@
+git init 
+---> to initialize - as a dev we don't use it
+
+git add <filename>
+---> local to working dir
+
+git status
+---> checks where file is?
+
+git commit -g "comment"
+---> to commit on branch master
+
+git log
+----> to check comited history
+
+git reset --hard <version_id>
+----> to go back to the previous commit
+
+git reote add origin <file_destination/link>
+--->
+
+git push origin master
+---->master is default branch/rep pushed into master
+
